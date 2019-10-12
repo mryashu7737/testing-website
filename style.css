@@ -1,0 +1,36 @@
+#myfirstid{
+    color:red;
+}
+#mysecondid{
+
+    color:purple;
+}
+#mybody{
+        background-color:black; 
+        background-image:url(https://wallpapersite.com/images/pages/pic_w/8782.jpg);
+        background-repeat:no-repeat;
+        color: aqua;
+        
+}
+#img{
+    height:20%;
+    width: 40%;
+    alignment:"center";
+}
+.myclass{
+    color: aqua;
+}
+.backimg
+    *{
+        margin: 0;
+        padding: 0;
+    
+    width: 100%;
+    height: 100vh;  /* visualheight */
+    background-color:green;
+   
+
+
+ 
+    
+}
