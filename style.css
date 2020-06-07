@@ -75,7 +75,7 @@ header a:hover{
 /* showcase */
 #showcase{
     min-height:400px;
-    background:url('../img/myself.jpg') no-repeat 0 -300px;
+    background:url('../myself.jpg') no-repeat 0 -300px;
     text-align: center;
     color:purple;
     background-position: center;
